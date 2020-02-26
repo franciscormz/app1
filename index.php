@@ -8,4 +8,6 @@ $suma=566+56;
 
 $resta=34-26;
 
+echo $suma;
+
 ?>
