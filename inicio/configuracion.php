@@ -2,6 +2,6 @@
 	echo "Archivo de configuracion";
 	echo "configuracion";
 	echo "Nueva línea en configuración.";
-	echo "5:56pm";
+	echo "6:00pm";
 
 ?>
