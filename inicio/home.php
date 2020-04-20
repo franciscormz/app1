@@ -1,5 +1,5 @@
 <?php
-	echo "Inicio";
+	echo "Inicio->";
 	echo "Descripcion del Inicio.";
 	echo "Mensaje de Inicio.";
 
