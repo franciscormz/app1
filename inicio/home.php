@@ -1,6 +1,6 @@
 <?php
 	echo "Inicio";
-	echo "Descripcion";
+	echo "Descripciondel Inicio";
 	echo "Mensaje de Inicio.";
 
 ?>
